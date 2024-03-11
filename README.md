@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uviboo, I'm an illustrator and fullstack development student.
 - 👀 I’m interested in illustration, design, videogames, music and of course programming.
-- 🌱 I’m currently learning HTML/CSS, Javascript and Figma.
+- 🌱 I’m currently learning next.js and mongoDB
 - 💞️ I’m looking to collaborate on any proyect I can learn from.
 - 📫 You can contact me on jav.munc@gmail.com
 - 😄 Pronouns: she/her
