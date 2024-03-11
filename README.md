@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uviboo, I'm an illustrator and fullstack development student.
+- 👋 Hi, I’m @uviboo, I'm an illustrator and fullstack javascript developer.
 - 👀 I’m interested in illustration, design, videogames, music and of course programming.
 - 🌱 I’m currently learning next.js and mongoDB
 - 💞️ I’m looking to collaborate on any proyect I can learn from.
