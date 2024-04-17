@@ -1,8 +1,8 @@
-👋 Hi, I’m @uviboo, an illustrator and full-stack JavaScript developer passionate about creating captivating visual experiences and robust digital solutions.
+👋 Hi, I’m @uviboo, an illustrator and full-stack developer passionate about creating captivating visual experiences and robust digital solutions.
 
 🎨 With a background in art and design, I seamlessly blend creativity with technical expertise to bring imaginative ideas to life through illustration and programming.
 
-💻 Currently, I’m honing my skills in Next.js and MongoDB to build dynamic web applications that marry form and function seamlessly.
+💻 Currently, I’m diving into the world of data engineering and machine learning, seeking to leverage these powerful tools to extract insights and create intelligent applications.
 
 🌟 I thrive on collaboration and am eager to contribute to projects where I can learn and grow alongside talented individuals.
 
